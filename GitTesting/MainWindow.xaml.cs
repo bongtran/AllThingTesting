@@ -30,5 +30,10 @@ namespace GitTesting
         {
 
         }
+
+        public void Add()
+        {
+
+        }
     }
 }
