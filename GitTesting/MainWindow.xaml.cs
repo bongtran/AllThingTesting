@@ -25,5 +25,10 @@ namespace GitTesting
             InitializeComponent();
 
         }
+
+        public void DoSomeThing()
+        {
+
+        }
     }
 }
